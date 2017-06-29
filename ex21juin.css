@@ -1,0 +1,54 @@
+.white {
+  color:white;
+}
+
+.vertical-center {
+  height: 200px;
+  width: 350px;
+}
+
+.rectangle {
+  text-align: center;
+
+}
+
+.rectangle p {
+  margin-top: -200px;
+  color: red;
+  font-size:50px;
+  margin-left: -150px;
+}
+
+p {
+  color:blue;
+  margin-left: 40px;
+}
+
+.centered {text-align:center;
+}
+
+img {width:50%;
+}
+
+
+.red {color: red;
+}
+
+.blue {color: blue;
+}
+
+a {
+  color:green;
+}
+
+.brown {
+  color:brown;
+}
+
+.center {
+  width: 350px;
+}
+
+.copy {
+  text-align: center;
+}
